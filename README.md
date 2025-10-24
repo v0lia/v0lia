@@ -26,9 +26,9 @@ This page is a **showcase of my projects** and tracks my engineering evolution: 
 ## 🛠 My projects
 
 ### 🧠 Machine Learning
-- [**fashion-mnist**](https://github.com/v0lia/fashion-mnist) — минимальный пайплайн обучения CNN  
-- [**CIFAR10**](https://github.com/v0lia/torch-experiments) — тестирование loss-функций и оптимизаторов  
 - [**TBD NLP**](link) - description
+- [**CIFAR10**](https://github.com/v0lia/torch-experiments) — тестирование loss-функций и оптимизаторов  
+- [**fashion-mnist**](https://github.com/v0lia/fashion-mnist) — минимальный пайплайн обучения CNN  
   
 ### 🚁 Drone Linux Logger
 - [**drone-utils**](https://github.com/v0lia/drone-utils) — обработка телеметрии и изображений с дронов
