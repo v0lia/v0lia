@@ -4,7 +4,7 @@
 ![AI](https://img.shields.io/badge/AI-ML%20%7C%20Deep%20Learning-blueviolet)
 ![Robotics](https://img.shields.io/badge/field-Robotics-orange)  
 
-![Python](https://img.shields.io/badge/python-3.10-blue)
+![Python](https://img.shields.io/badge/python-3.13-blue)
 ![PyTorch](https://img.shields.io/badge/framework-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
 
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)  
@@ -19,9 +19,9 @@ This page is a **showcase of my projects** and tracks my engineering evolution: 
 - 👯 Looking to collaborate on: Innovative projects in **AI+Robotics**.
 
 ## 🧩 Tech stack
-- Languages: Python, C++, Bash
-- AI/ML: PyTorch, TensorFlow
-- Robotics: MAVSTD, STM32, Arduino, electronics, mechanics
+- **Languages:** Python, C++, Bash
+- **AI/ML:** PyTorch, TensorFlow
+- **Robotics:** MAVSTD, STM32, Arduino, electronics, mechanics
   
 ---
 
@@ -35,7 +35,7 @@ This page is a **showcase of my projects** and tracks my engineering evolution: 
 ### 🚁 Drone Linux Logger
 - [**drone-utils**](https://github.com/v0lia/drone-utils) — обработка телеметрии и изображений с дронов
   
-### 🌱
+### 🌱 Other
 - [RimWorld Randomizer](https://github.com/v0lia/rimworld-randomizer) —  my first trail run: (TBD) processes randomized list from random.org.
 
 ---
