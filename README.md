@@ -1,4 +1,4 @@
-# 🧠 Vitalii Volia: **AI & Robotics Engineer**
+# Vitalii Volia: **AI & Robotics Engineer**
 
 [![Portfolio](https://img.shields.io/badge/portfolio-active-green)](#)
 ![AI](https://img.shields.io/badge/AI-ML%20%7C%20Deep%20Learning-blueviolet)
