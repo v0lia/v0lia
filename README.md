@@ -1,4 +1,4 @@
-# Vitalii Volia: **ML & Robotics Engineer**
+# Vitalii Volia: **Robotics Engineer**
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![ML](https://img.shields.io/badge/ML-Deep%20Learning-blueviolet)
@@ -8,20 +8,17 @@
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ## 🧠 About me
-I am an engineer working at the intersection of ML and robotics.  
+I am a robotics engineer inspired by LLM capabilities.  
 This page is a **showcase of my projects** and tracks my engineering evolution: from minimalistic prototypes to production-grade solutions.
-- 🔭 Currently working on: **"Sentinel Drone"** - a personal R&D project.
-- 🌱 Currently learning: **Deep learning** and neural networks with **PyTorch**.
-- 👯 Looking to collaborate on: Innovative projects in **ML+Robotics**.
 
 ## 🧩 Tech stack
 - **Languages:** Python, C++, Bash
-- **AI/ML:** PyTorch, TensorFlow
+- **AI/ML:** LLM, PyTorch, TensorFlow
 - **Robotics:** MAVSTD, STM32, Arduino, electronics, mechanics
   
 ## 🛠 My projects
 
-- [**ML-engine**](https://github.com/v0lia/ML-engine) — my modular deep learning engine with logging, TensorBoard visualization, checkpointing and pluggable CNN architectures  
+- [**ML-engine**](https://github.com/v0lia/ML-engine) — modular deep learning engine with logging, TensorBoard visualization, checkpointing and pluggable CNN architectures  
 - [**drone-utils**](https://github.com/v0lia/drone-tools) — tools for logging on linux and drone compass calibration
  
 ## ⚙️ Engineering Vector
