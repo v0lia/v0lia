@@ -11,16 +11,16 @@
 I am a robotics engineer inspired by LLM capabilities.  
 This page is a **showcase of my projects** and tracks my engineering evolution: from minimalistic prototypes to production-grade solutions.
 
+## 🛠 My projects
+
+- [**ML-engine**](https://github.com/v0lia/ML-engine) — modular deep learning engine with logging, TensorBoard visualization, checkpointing and pluggable CNN architectures  
+- [**drone-utils**](https://github.com/v0lia/drone-tools) — tools for logging on linux and drone compass calibration
+
 ## 🧩 Tech stack
 - **Languages:** Python, C++, Bash
 - **AI/ML:** LLM, PyTorch, TensorFlow
 - **Robotics:** MAVSTD, STM32, Arduino, electronics, mechanics
   
-## 🛠 My projects
-
-- [**ML-engine**](https://github.com/v0lia/ML-engine) — modular deep learning engine with logging, TensorBoard visualization, checkpointing and pluggable CNN architectures  
-- [**drone-utils**](https://github.com/v0lia/drone-tools) — tools for logging on linux and drone compass calibration
- 
 ## ⚙️ Engineering Vector
 - **Modularity** - building agile, transparent, and scalable systems
 - **Minimalism** - achieving control through simplicity
